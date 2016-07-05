@@ -1,0 +1,24 @@
+.wrap{
+  min-width: 600px;
+  width: 80%;
+  margin: auto;
+  background-color: yellow;
+}
+.content,.side {
+  height: 600px;
+}
+.content{
+  background-color: red;
+  float: left;
+  width: 80%;
+}
+.side{
+  background-color: brown;
+  float: left;
+  width: 20%;
+
+}
+.side ul{
+  list-style: none;
+  padding-left:0px;
+}
