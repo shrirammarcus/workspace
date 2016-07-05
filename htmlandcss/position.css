@@ -1,0 +1,46 @@
+.div1{
+  position: absolute;
+  left:300px;
+  top:50px;
+  background-color: grey;
+  width: 600px;
+  height: 600px;
+
+
+}
+.div11{
+  position: absolute;
+  top:50px;
+  left:150px;
+  background-color: blue;
+  width:400px;
+  height: 150px;
+
+
+}
+.div12
+{
+  position: relative;
+  top: 250px;
+  left: 175px;
+  background-color: green;
+  width: 400px;
+  height: 100px;
+}
+.div121
+{
+  position: absolute;
+  top:150px;
+  left: 50px;
+  background-color: red;
+  width: 175px;
+  height: 100px;
+}
+.div122{
+  position: relative;
+  top:150px;
+  left:300px;
+  background-color:yellow;
+  width: 175px;
+  height: 100px;
+}
